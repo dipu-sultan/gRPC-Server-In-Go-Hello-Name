@@ -6,3 +6,5 @@ PostMan:
 {
     "name": "Dipu"
 }
+
+Follow this as a ref: https://pascalallen.medium.com/how-to-build-a-grpc-server-in-go-943f337c4e05
